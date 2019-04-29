@@ -6,7 +6,7 @@
     },
     "autoload": {
         "psr-4": {
-            "hello-word\\src: "src/"
+            "src": "src"
         }
     }
 }
